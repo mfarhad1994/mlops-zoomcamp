@@ -1,3 +1,3 @@
 # mlops-zoomcamp
 
-this is ex
+this is an example
