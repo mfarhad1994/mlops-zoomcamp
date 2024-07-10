@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/4da6b03526a3424b91b88c213df08e0f/artifacts
+end_time: 1720622500853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4da6b03526a3424b91b88c213df08e0f
+run_name: calm-robin-618
+run_uuid: 4da6b03526a3424b91b88c213df08e0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720622497198
+status: 3
+tags: []
+user_id: codespace

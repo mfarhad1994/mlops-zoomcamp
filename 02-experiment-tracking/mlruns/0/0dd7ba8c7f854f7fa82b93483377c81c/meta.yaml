@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/0dd7ba8c7f854f7fa82b93483377c81c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dd7ba8c7f854f7fa82b93483377c81c
+run_name: valuable-dog-271
+run_uuid: 0dd7ba8c7f854f7fa82b93483377c81c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720607274081
+status: 1
+tags: []
+user_id: codespace

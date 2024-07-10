@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/bdf01e23402e4a62b45caed8352c5dde/artifacts
+end_time: 1720618293422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdf01e23402e4a62b45caed8352c5dde
+run_name: receptive-chimp-817
+run_uuid: bdf01e23402e4a62b45caed8352c5dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720618218513
+status: 3
+tags: []
+user_id: codespace

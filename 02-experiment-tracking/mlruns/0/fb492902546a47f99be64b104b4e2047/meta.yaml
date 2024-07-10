@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/fb492902546a47f99be64b104b4e2047/artifacts
+end_time: 1720622640029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb492902546a47f99be64b104b4e2047
+run_name: receptive-stork-5
+run_uuid: fb492902546a47f99be64b104b4e2047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720622637029
+status: 3
+tags: []
+user_id: codespace

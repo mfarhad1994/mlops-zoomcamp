@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/985fdb01e4f44844abd69ad07fd76445/artifacts
+end_time: 1720623425898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 985fdb01e4f44844abd69ad07fd76445
+run_name: nosy-hen-733
+run_uuid: 985fdb01e4f44844abd69ad07fd76445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720623422918
+status: 3
+tags: []
+user_id: codespace

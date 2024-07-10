@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/27f030866eb6442eaf35995c96bbc5de/artifacts
+end_time: 1720619507905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27f030866eb6442eaf35995c96bbc5de
+run_name: capable-perch-659
+run_uuid: 27f030866eb6442eaf35995c96bbc5de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720619433054
+status: 3
+tags: []
+user_id: codespace

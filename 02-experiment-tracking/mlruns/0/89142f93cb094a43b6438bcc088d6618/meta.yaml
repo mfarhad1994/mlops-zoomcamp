@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/89142f93cb094a43b6438bcc088d6618/artifacts
+end_time: 1720617598519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89142f93cb094a43b6438bcc088d6618
+run_name: judicious-sow-893
+run_uuid: 89142f93cb094a43b6438bcc088d6618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720617595468
+status: 3
+tags: []
+user_id: codespace

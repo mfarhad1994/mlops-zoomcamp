@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/38e4a5694bc74a689c4cc310f3217c18/artifacts
+end_time: 1720607967118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38e4a5694bc74a689c4cc310f3217c18
+run_name: gentle-hawk-637
+run_uuid: 38e4a5694bc74a689c4cc310f3217c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720607964118
+status: 3
+tags: []
+user_id: codespace

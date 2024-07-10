@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/8afc9acdad374a0c924004a4a8a95956/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8afc9acdad374a0c924004a4a8a95956
+run_name: judicious-wren-44
+run_uuid: 8afc9acdad374a0c924004a4a8a95956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720607975605
+status: 1
+tags: []
+user_id: codespace
